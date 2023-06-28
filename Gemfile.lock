@@ -233,7 +233,7 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   bootsnap
-  bootstrap (~> 5.2)
+  bootstrap
   debug
   font-awesome-sass (~> 6.1)
   importmap-rails
